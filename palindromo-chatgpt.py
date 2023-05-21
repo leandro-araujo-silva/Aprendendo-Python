@@ -17,3 +17,5 @@ palavra3 = "socorram me subi no onibus em marrocos"
 print(verificar_palindromo(palavra1))  # Saída: True
 print(verificar_palindromo(palavra2))  # Saída: False
 print(verificar_palindromo(palavra3))  # Saída: True
+
+# Aperte tab para completar as palavras
