@@ -12,7 +12,7 @@ for c in range(10):
 print('PAUSA')
 
 while repete != 0:
-    repete = int(input('Quantos termos voê quer mostrar a mais? '))
+    repete = int(input('Quantos termos você quer mostrar a mais? '))
     cont += repete
     if repete == 0:
         print('Progressão finalizada com {} termos mostrados.'.format(cont))
